@@ -4,7 +4,7 @@
 
 {!! Form::open() !!}
 
-<p>DAWNSNSへようこそ</p>
+<p>DAWNSNSへようこそ2</p>
 
 {{ Form::label('e-mail') }}
 {{ Form::text('mail',null,['class' => 'input']) }}
