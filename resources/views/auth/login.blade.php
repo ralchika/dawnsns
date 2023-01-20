@@ -5,7 +5,7 @@
 {!! Form::open() !!}
 
 
-<p>DAWNSNSへようこそ3</p>
+<p>DAWNSNSへようこそ4</p>
 
 
 {{ Form::label('e-mail') }}
